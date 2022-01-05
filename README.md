@@ -1,8 +1,7 @@
 # Day12-Salestax-with-chai-Mocha
 In this project we have used following dependencies
 
-- [x] node 
-- [x] express 
+- [x] node  
 - [x] chai
 - [x] mocha
 
