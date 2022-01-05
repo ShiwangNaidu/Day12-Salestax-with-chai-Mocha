@@ -37,4 +37,6 @@ yarn test || npm run test
  |-README.md
  |test
  ||index.spec.js
+ |package-lock.json
+ |package.json
  ```
